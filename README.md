@@ -1,2 +1,2 @@
 # Exercise4
-create one reporsitory
+create one repository
